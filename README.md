@@ -1,12 +1,6 @@
- <div align="center">
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=160&color=0:09090b,100:3f3f46&text=Jinx&fontColor=ffffff&fontSize=54&fontAlignY=42](https://capsule-render.vercel.app/api?type=waving&height=100&color=timeGradient&section=header&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)" />
+Hi there 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:09090b,100:3f3f46&text=Jinx&fontColor=ffffff&fontSize=54&fontAlignY=42" />
+I'm Jinx.
 
-### Hey, I'm Jinx.
-
-Currently working with **Lua & Luau**.
-
-Building projects with more ideas in the works.
-
-<br>
-</div>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
