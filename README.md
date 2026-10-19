@@ -13,7 +13,8 @@
 
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=jinxware00&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/jinxware00)
+
+![Profile Views](https://komarev.com/ghpvc/?username=jinxware00&style=flat-square&color=00d9ff&label=PROFILE+VIEWS)
 [![YouTube](https://img.shields.io/badge/YouTube-jinxware00-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@jinxware00)
 [![guns.lol](https://img.shields.io/badge/guns.lol-jinxware00-111111?style=flat&logo=linktree&logoColor=white)](https://guns.lol/jinxware00)
 
