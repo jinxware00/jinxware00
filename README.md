@@ -27,6 +27,6 @@
 [![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)](https://luau.org/)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-<img src="https://raw.githubusercontent.com/jinxware00/solx/main/assets/logo.png" height="28" alt="Solx logo" /> ![Solx](https://img.shields.io/badge/Solx-FF6B1A?style=for-the-badge)
+[![Solx](https://img.shields.io/badge/Solx-FF6B1A?style=for-the-badge&logoColor=white)](https://github.com/jinxware00/solx)
 
 </div>
